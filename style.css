@@ -1,0 +1,8 @@
+center>ol>li>img{
+    width: 150px; height: 100px;
+}
+center>ol{
+    list-style-position: inside;
+}
+
+/*External*/
